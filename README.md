@@ -1,2 +1,29 @@
 # HTML-Website
 Here is my first Website using basic HTML commands
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Website</title>
+</head>
+<body>
+<h1>Welcome to my Website!</h1>
+<p>This is my first website using HTML</p>
+<a href="https://www.python.org/">
+  Here is the link of official Python Website
+</a>
+<p>Here is the picture of python logo</p>
+<p>Here are three reasons Django is cool:</p>
+<img src="python.png">
+<ol>
+  <li>Fast</li>
+  <li>Secure</li>
+  <li>Scalable</li>
+</ol>
+
+<p>Click on the picture for opening Django official website </p>
+<a href="https://www.djangoproject.com/">
+  <img src="django.png">
+</a>
+</body>
+</html>
